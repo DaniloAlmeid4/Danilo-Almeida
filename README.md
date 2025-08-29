@@ -1,14 +1,22 @@
-### Prazer me chamo Danilo Almeida 👋
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlJVtNBFpWhhlxbSHbwrnsgqFxtZmRMtVMwWdvPHGhxhSGfWlRdmmTRNbZVjGjtbvwbgrL)
+<h1 align="center">Oi 👋, Eu sou Danilo Almeida</h1>
+<h3 align="center">Estudante de Engenharia da Computação especializando na área de Dados</h3>
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloAlmeid4&show_icons=true&theme=dark)
+- 🌱 Atualmente estou aprendendo **IA e Machine Learning**
 
-### Skills
-<div style="display: inline_block"><br/>
-<img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+- 💬 Me pergunte sobre **Python , Excel , Power BI e SQL**
 
-</div>
+- 📫 Como me achar **daniloalmeidadosssantos@gmail.com**
+
+- 📄 Já trabalhei 1 ano e 4 meses com atendimento ao público [www.linkedin.com/in/daniloalmeidadosssantos](www.linkedin.com/in/daniloalmeidadosssantos)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/daniloalmeidadosssantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daniloalmeidadosssantos" height="30" width="40" /></a>
+<a href="https://instagram.com/@danilo.allm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danilo.allm" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloalmeid4&show_icons=true&locale=en&layout=compact" alt="daniloalmeid4" /></p>
 
