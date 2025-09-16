@@ -7,7 +7,7 @@
 
 - 📫 Como me achar **daniloalmeidadosssantos@gmail.com**
 
-- 📄 Já trabalhei 1 ano e 4 meses com atendimento ao público [www.linkedin.com/in/daniloalmeidadosssantos](www.linkedin.com/in/daniloalmeidadosssantos)
+- 📄 Já trabalhei 1 ano e 4 meses com atendimento ao público e agora busco minha primeira oportunidade de estágio de TI [www.linkedin.com/in/daniloalmeidadosssantos](www.linkedin.com/in/daniloalmeidadosssantos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
