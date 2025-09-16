@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **IA**
 
-- 💬 Me pergunte sobre **Python , Excel , Power BI e SQL**
+- 💬 Possuo conhecimentos sobre as ferramentas : **Python , Excel , Power BI e SQL**
 
 - 📫 Como me achar **daniloalmeidadosssantos@gmail.com**
 
