@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Danilo Almeida</h1>
-<h3 align="center">Estudante de Engenharia da Computação especializando na área de Dados Analista de Dados | Python • SQL • Power BI • Excel | Ex-operador de call center | Eng. da Computação</h3>
+<h3 align="center">Estudante de Engenharia da Computação especializado na área de Dados | Analista de Dados | Python • SQL • Power BI • Excel | Ex-operador de call center | Eng. da Computação</h3>
 
 - 📫 Como me achar **daniloalmeidadosssantos@gmail.com**
 
